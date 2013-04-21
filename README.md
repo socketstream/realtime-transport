@@ -19,7 +19,7 @@ The following modules will be officially maintained and supported:
 Module Name | Description | Clients Supported
 --- | --- | ---
 [**rtt-ws**](https://github.com/socketstream/rtt-ws) | Raw WebSocket server using einaros's blazing-fast library | Browser, Node
-[**rtt-engineio**](https://github.com/socketstream/rtt-engineio) | Engine.IO - a WebSocket transport with fallbacks (used in Socket.IO) | Browser, Node
+[**rtt-engine.io**](https://github.com/socketstream/rtt-engine.io) | Engine.IO - a WebSocket transport with fallbacks (used in Socket.IO) | Browser, Node
 [**rtt-sockjs**](https://github.com/socketstream/rtt-sockjs) | SockJS - a WebSocket transport with fallbacks (used in Meteor) | Browser
 
 There's also a [mock transport](https://github.com/socketstream/rtt-mock) used exclusively for internal testing and benchmarks.
